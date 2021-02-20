@@ -52,4 +52,4 @@ schedule:
 
 ## 参考（及本文档）
 
-hostloc-auto-get-points: https://github.com/inkuang/hostloc-auto-get-points  MIT License
+hostloc-auto-get-points: https://github.com/inkuang/hostloc-auto-get-points  MIT Licens
